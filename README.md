@@ -3,6 +3,10 @@
 ## Introducción
 
 Actualmente soy estudiante del programa  curricular de ingenieria de Sistemas e Informatica en la Universidad Nacional de Colombia Sede Medellin, actualmente eh completado nueve semestres del programa curricular y tengo un avance del 75% en el contenido del programa.
+
+## Conocimientos
+- Tengo conocimientos basicos e intermedios en los lenguajes de Python y Java.
+- Conocimientos basicos en SQL,Javascript,CSS,HTML.
 <!--
 **ancgarciamo/ancgarciamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
