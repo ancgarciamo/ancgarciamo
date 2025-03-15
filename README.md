@@ -2,7 +2,7 @@
 
 ## Introducción
 
-Actualmente soy estudiante del programa curricular de ingenieria de Sistemas e Informatica en la Universidad Nacional de Colombia Sede Medellin, actualmente estoy terminando el ultimo semestre del programa curricular y tengo un avance del 96 % en el contenido del programa.
+Actualmente soy estudiante proximo a graduación del programa curricular de ingenieria de Sistemas e Informatica en la Universidad Nacional de Colombia Sede Medellin, actualmente estoy terminando el ultimo semestre del programa curricular y tengo un avance del 100 % en el contenido del programa.
 
 ## Conocimientos
 - Tengo conocimientos basicos e intermedios en los lenguajes de Python y Java.
